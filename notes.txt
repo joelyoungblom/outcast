@@ -1,0 +1,5 @@
+
+find character names in dialog
+^\s\+\([A-Z]\+\)\s*$
+
+
