@@ -1,0 +1,9 @@
+
+initialize lines_by_character hash
+read file line by line
+  next line until character name encountered
+    increment following lines for character's name in hash
+finish reading file
+
+print number of lines per character
+
